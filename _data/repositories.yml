@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - BiqianCheng
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - BiqianCheng/COVID-19-analysis-website
+  - BiqianCheng/Bash-like-CLI
+  - BiqianCheng/simple-crawler
+  - CS178A-B/R-Finder
