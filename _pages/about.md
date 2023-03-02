@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     <p>MRB 3</p>
-    <p>123 your address street</p>
+    <p>900 University Ave</p>
     <p>Riverside, CA 92507</p>
 
 news: true  # includes a list of news items
@@ -20,8 +20,9 @@ social: true  # includes social icons at the bottom of the page
 
 [comment]: < Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. >
 
-I am a 2nd year Ph.D student of Computer Science and Engineering at the University of California, Riverside.
+I am a 2nd year Ph.D student of Computer Science and Engineering at the University of California, Riverside (UCR, the U.S.), advised by Professor. Vagelis Papalexakis and Professor. Jia Chen. I received my Bachelor's degree from the University of California, Riverside.
 
+I am broadly interested in Machine Learning, Deep Learning, Reinforcement learning, and Data science research. My research focuses on
 
 [comment]: <Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.>
 
