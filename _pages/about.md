@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 [comment]: < Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. >
 
-I am a 2nd year Ph.D student of Computer Science and Engineering at the University of California, Riverside (UCR, the U.S.), advised by Professor. Vagelis Papalexakis and Professor. Jia Chen. I received my Bachelor's degree from the University of California, Riverside.
+I am a 2nd year Ph.D student of <a href='https://www1.cs.ucr.edu/'>Computer Science and Engineering </a> at the <a href='https://www.ucr.edu/'> University of California, Riverside </a> (UCR, the U.S.), advised by <a href='https://sites.google.com/view/jiachen-research/home'>Professor. Jia Chen</a> and <a href='https://www.cs.ucr.edu/~epapalex'>Professor. Vagelis Papalexakis</a>. Prior to my Ph.D., I received my Bachelor's degree from the <a href='https://www.ucr.edu/University'> University of California, Riverside </a>.
 
 I am broadly interested in Machine Learning, Deep Learning, Reinforcement learning, and Data science research. My research focuses on
 
