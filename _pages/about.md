@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     <p>MRB 3</p>
-    <p>900 University Ave</p>
+    <p>169 Aberdeen Dr,</p>
     <p>Riverside, CA 92507</p>
 
 news: true  # includes a list of news items
