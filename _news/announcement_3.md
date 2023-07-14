@@ -5,4 +5,4 @@ inline: true
 ---
 
 <!-- inline announcement with Markdown emoji: sparkles: :smile: -->
-Our paper ACCA has been accepted to [SoCal'2023](https://www.ucr.edu/about-ucr)! Congrad! :sparkles: :smile:
+Our paper ACCA has been accepted to [SoCal'2023](https://kdd.org/kdd2023/southern-california-data-science-day/)! Congrad! :sparkles: :smile:
