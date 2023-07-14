@@ -11,8 +11,8 @@ nav_order: 5
 
 1. Database workshop
 
-2. [WiDS](https://sites.google.com/ucr.edu/widsriverside/speakers?authuser=0#h.73dzqjljtdh0): 
-    Serves as STEM graduate student panelists
+2. [WiDS](https://sites.google.com/ucr.edu/widsriverside/home?authuser=0): 
+    Serves as [STEM graduate student panelists](https://sites.google.com/ucr.edu/widsriverside/speakers?authuser=0#h.73dzqjljtdh0)
 
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
