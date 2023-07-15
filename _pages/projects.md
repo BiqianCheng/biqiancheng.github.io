@@ -1,9 +1,9 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: Projects
+permalink: /Projects/
 description: A growing collection of your cool projects.
-nav: false # decided show "projects" tab on the nevigation bar
+nav: true # decided show "projects" tab on the nevigation bar
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false

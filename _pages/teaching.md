@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /teaching/
-# title: Teaching
+permalink: /Teaching/
+title: Teaching
 # description: Materials for courses you taught. Replace this text with your description.
-nav: false # decided show "teaching" tab on the nevigation bar
+nav: true # decided show "teaching" tab on the nevigation bar
 nav_order: 5
 ---
 
